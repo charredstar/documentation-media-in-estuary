@@ -1,5 +1,6 @@
 [
   {"url":"do what u feel gracejones.wav", "type": "audio", "bank":"quotes","n":0},
   {"url":"wind chimes.WAV", "type": "audio", "bank":"chimes","n":0},
-  {"url":"whats another word for sharp.mp3", "type": "audio", "bank":"quotes","n":1}
+  {"url":"whats another word for sharp.mp3", "type": "audio", "bank":"quotes","n":1},
+  {"url":"Bee sounds", "type": "audio", "bank":"buzz","n":0}
 ]
