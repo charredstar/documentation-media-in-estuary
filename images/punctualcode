@@ -1,0 +1,9 @@
+ariesconst = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/Photo_of_the_constellation_Aries_produced_by_NOIRLab_in_collaboration_with_Eckhard_Slawik%2C_a_German_astrophotographer_(aries).jpg"; 
+
+afroharping = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/afroharpingglitchcollage.png";
+
+chart = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/afro%20harping%20release.png";
+
+reduceOpacity factor x = x *: [1,1,1,factor];
+
+increaseSaturation factor x =  hsvrgb [mono $ x * [1,0,0,0],mono $ x * [0,1,0,0], mono $ x * [0,0,1,0]] ++ (mono $ x * [0,0,0,1]);
