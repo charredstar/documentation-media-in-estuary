@@ -4,7 +4,7 @@ afroharping = imga "https://raw.githubusercontent.com/charredstar/documentation-
 
 chart = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/afro%20harping%20release.png";
 
-album = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/0dorothy%20ashby%20afro%20harping.jpg";
+album = img "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/0dorothy%20ashby%20afro%20harping.jpg";
 
 opacity factor x = x *: [1,1,1,factor];
 
