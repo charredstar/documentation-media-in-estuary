@@ -8,6 +8,8 @@ album = img "https://raw.githubusercontent.com/charredstar/documentation-media-i
 
 pngal = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/pngal.png";
 
+raregroove = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/raregroove.png";
+
 opacity factor x = x *: [1,1,1,factor];
 
 brknSat factor x =  hsvrgb [mono $ x * [1,0,0,0],mono $ x * [0,1,0,0], mono $ x * [0,0,1,0]] ++ (mono $ x * [0,0,0,1]);
