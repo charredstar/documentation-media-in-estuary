@@ -1,10 +1,12 @@
 ariesconst = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/Photo_of_the_constellation_Aries_produced_by_NOIRLab_in_collaboration_with_Eckhard_Slawik%2C_a_German_astrophotographer_(aries).jpg"; 
 
-afroharping = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/afroharpingglitchcollage.png";
+afrogc = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/afroharpingglitchcollage.png";
 
 chart = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/afro%20harping%20release.png";
 
 album = img "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/0dorothy%20ashby%20afro%20harping.jpg";
+
+pngal = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/pngal.png";
 
 opacity factor x = x *: [1,1,1,factor];
 
