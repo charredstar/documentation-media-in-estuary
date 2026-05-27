@@ -1,6 +1,6 @@
 ariesconst = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/Photo_of_the_constellation_Aries_produced_by_NOIRLab_in_collaboration_with_Eckhard_Slawik%2C_a_German_astrophotographer_(aries).jpg"; 
 
-glyph = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/mars%20png.png";
+mars = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/mars%20png.png";
 
 afrogc = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/afroharpingglitchcollage.png";
 
