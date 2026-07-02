@@ -1,1 +1,1 @@
-##soundtest
+!reslist "https://charredstar.github.io/documentation-media-in-estuary/sound/samples.json"
