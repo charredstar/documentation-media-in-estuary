@@ -1,4 +1,8 @@
 [
   {"url":"gracejones.wav", "type": "audio", "bank":"grace","n":0},
-  {"url":"windchimes.WAV", "type": "audio", "bank":"chimes","n":0}
+  {"url":"windchimes.WAV", "type": "audio", "bank":"chimes","n":0},
+  {"url":"boga.wav","type":"audio","bank":"cboga","n":0},
+  {"url":"boga boga boga.wav","type":"audio","bank":"cboga","n":1},
+  {"url":"cy.wav","type":"audio","bank":"ccy","n":0},
+  {"url":"cy cy cy.wav","type":"audio","bank":"ccy","n":1}
 ]
