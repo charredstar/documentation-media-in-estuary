@@ -16,3 +16,8 @@ brknSat factor x =  hsvrgb [mono $ x * [1,0,0,0],mono $ x * [0,1,0,0], mono $ x 
 
 sat factor x =  hsvrgb (rgbhsv [mono $ x *: [1,0,0,0],(mono $ x *: [0,1,0,0]), mono $ x *: [0,0,1,0]] +: [0,factor,0]) ++ (mono $ x *: [0,0,0,1]);
 
+mercap = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/mercap.png";
+
+merpi = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/merpi.png";
+
+virgoselected = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/virgoselected.png";
