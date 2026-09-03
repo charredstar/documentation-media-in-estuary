@@ -21,3 +21,5 @@ mercap = imga "https://raw.githubusercontent.com/charredstar/documentation-media
 merpi = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/merpi.png";
 
 virgoselected = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/virgoselected.png";
+
+virgoinv = imga "https://raw.githubusercontent.com/charredstar/documentation-media-in-estuary/refs/heads/main/images/virgoinverted.png";
